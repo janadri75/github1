@@ -19,4 +19,5 @@
 - To push the changes to github repo
     `git push`
 
-- Test
+- To Pull changes from one branch to another branch
+    `git pull origin jana`
